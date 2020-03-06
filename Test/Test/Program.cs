@@ -6,11 +6,12 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hallo i bin do");
-            Console.WriteLine("SPISCHL is in");
+                Console.WriteLine("Hello World!");
+                        Console.WriteLine("Hallo i bin do");
+                Console.WriteLine("SPISCHL is in");
             Console.WriteLine("I owat nix is do");
-            Console.WriteLine("Hallo Prammer is dooo");
+                                             Console.WriteLine("Hallo Prammer is dooo");
+
         }
     }
 }
