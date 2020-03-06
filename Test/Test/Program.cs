@@ -8,6 +8,7 @@ namespace Test
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hallo i bin do");
+            Console.WriteLine("SPISCHL is in");
         }
     }
 }
