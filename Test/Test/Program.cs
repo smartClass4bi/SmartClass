@@ -10,6 +10,7 @@ namespace Test
             Console.WriteLine("Hallo i bin do");
             Console.WriteLine("SPISCHL is in");
             Console.WriteLine("I owat nix is do");
+            Console.WriteLine("ROOOOb is a do :)");
         }
     }
 }
